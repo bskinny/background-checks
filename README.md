@@ -7,3 +7,5 @@ You can show your support of background checks for gun sales by putting this rep
    background-repeat: repeat;
  }
 ```
+
+Checkmark icon provided by [Material Design](https://material.io/resources/icons/?style=baseline).
