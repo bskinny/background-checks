@@ -9,3 +9,11 @@ You can show your support of background checks for gun sales by putting this rep
 ```
 
 Checkmark icon provided by [Material Design](https://material.io/resources/icons/?style=baseline).
+
+New! You can also show your support for red flag laws by adding a red flag.
+```css
+ body {
+   background-image: url('https://cdn.jsdelivr.net/gh/bskinny/background-checks@v1.0.1/baseline_check_grey_24dp_red_flag.png');
+   background-repeat: repeat;
+ }
+```
